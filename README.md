@@ -1,4 +1,4 @@
-# page-starter
+# AI Wars in 2025 | Case | INNO 6230
 > if.eugeneyip.com
 
 A lightweight template repository for publishing LLM generated JSX pages with minimal setup.
